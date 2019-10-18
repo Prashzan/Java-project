@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cruise_Excursion/src/Java Project"/>
+	<classpathentry kind="src" path="Cruise_Excursion/test"/>
+	<classpathentry kind="lib" path="Cruise_Excursion/dist/Cruise_Excursion.jar"/>
+	<classpathentry kind="lib" path="Cruise_Excursion/dist/lib/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="Cruise_Excursion/dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Cruise_Excursion/src/Required JAR File/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="Cruise_Excursion/src/Required JAR File/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Requied JAR files/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="Requied JAR files/rs2xml.jar"/>
+	<classpathentry kind="output" path="Cruise_Excursion/build/classes"/>
+</classpath>

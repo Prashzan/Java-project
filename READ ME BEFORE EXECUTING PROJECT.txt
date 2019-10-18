@@ -1,0 +1,6 @@
+Before running the project you need to considered following things:
+
+1. Initially, import the "cruise_excursion.sql" in XAMPP or AMPP.
+2. Also, run the server from  the IDE before executing the "cruise_excursion" executable jar file.
+3. There is only one main method in "Homepage" class. So, "Homepage" class should be executed first while running program through IDE.
+4. If you want to login as admin, insert username and password both as "admin" in login page.
